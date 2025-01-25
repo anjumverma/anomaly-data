@@ -1,2 +1,3 @@
 # anomaly-data
-autmated anomaly detections 
+automated anomaly detections 
+Author- AnjumVerma
